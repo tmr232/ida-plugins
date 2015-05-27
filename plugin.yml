@@ -1,0 +1,30 @@
+- name: lca
+  root: lca
+  include: []
+  requirements: ../requirements.txt
+
+- name: autostruct
+  root: autostruct
+  include: []
+  requirements: ../requirements.txt
+
+- name: autoenum
+  root: autoenum
+  include: []
+  requirements: ../requirements.txt
+
+- name: function_flow
+  root: function_flow
+  include: []
+  requirements: ../requirements.txt
+
+- name: quick_copy
+  root: quick_copy
+  include: []
+  requirements: ../requirements.txt
+
+- name: function_strings
+  root: function_strings
+  include: []
+  requirements: ../requirements.txt
+
